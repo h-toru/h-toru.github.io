@@ -13,3 +13,6 @@ Webアプリのサーバーサイドエンジニアを目指しています。
 - Javascript
 - Express、Node.js
 - Git、PostgreSQL
+
+# Contact
+- [Mail] th822.198237645@gmail.com
